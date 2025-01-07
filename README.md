@@ -1,18 +1,21 @@
 <img src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
 
-<h2> Hello there, I'm Diego </h2>
-<p> Full Stack Developer</p>
+### 🔭 About me
 
-### 👨🏻‍💻 About me
+```python
+class Gituser:
+      def __init__(self):
+        self.name = "Diego"
+        self.role = "Full Stack Devoloper"
+        self.is_studing = True
+        self.code = [Python, Javascript, HTML, CSS, MySQL, Java],
+        self.askMeAbout = [Data Science, Web, Software Development]
 
-```javascript
-const user = {
-  name: 'Diego',
-  is_studing: True,
-  code: [Python, Javascript, HTML, CSS, Java],
-  interests = [Data Science, Web, Software Development]
-  gols: "create meaningfuls and efficients softwares that solves real-world problems and dynamize people's daily routine"
-}
+    def say_hi(self):
+        print(f'Hello there, my name is {self.name}')
+
+    def say_golas(self):
+        print("Create meaningfuls softwares that solves real-world problems and dynamize people's daily routine")
 ```
 
 ### 🛠️ Skills
