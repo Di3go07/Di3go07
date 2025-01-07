@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif">
+<img src="https://i.pinimg.com/originals/7f/7f/28/7f7f2882899755a705a2953b6fcfc263.gif">
 
 # Hello there, my name is Diego
 
