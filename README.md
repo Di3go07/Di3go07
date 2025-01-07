@@ -12,4 +12,4 @@ I am a passionate student diving into the world of software development. Current
 
 ### 🛠️ Skills
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://camo.githubusercontent.com/9d733eff13ce60463ffcba4786ea5c1374f55e73f5ab3bdcd0073c8f38010c8d/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6a6176612d31342e737667" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
