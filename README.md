@@ -35,6 +35,6 @@ class Gituser:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Di3go07&repo=Calculadora_Solar&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
-### Contact me
+### 📬 Contact me
 
 <a href = "mailto:diego.dpab@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
