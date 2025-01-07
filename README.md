@@ -10,4 +10,6 @@
 I am a passionate student diving into the world of software development. Currently, I'm expanding my knowledge in Data Science, Web and Java while building projects to sharpen my skills. My goal is to create meaningfuls and efficients softwares that solves real-world problems and dynamize people's daily routine
 </p>
 
+### 🛠️ Skills
 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
