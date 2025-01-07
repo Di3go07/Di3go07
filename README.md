@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/11/c2/38/11c238c51c94fbf822ae0fc6acc88c58.gif">
+
 # Hello there, my name is Diego
 
 ## Full-Stack Developer
