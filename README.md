@@ -1,3 +1,5 @@
+<img src='https://i.gifer.com/NvN.gif'>
+
 # Hello there, my name is Diego
 
 ## Full-Stack Developer
