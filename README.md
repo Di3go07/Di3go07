@@ -32,7 +32,7 @@ class Gituser:
 </a>
 
 <a href="https://github.com/Di3go07/Ze_Code_backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Di3go07&repo=Ze_Code_backed&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Di3go07&repo=Ze_Code_backend&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
 </a>
 
 ### 📬 Contact me
