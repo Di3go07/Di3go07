@@ -9,7 +9,7 @@ class Gituser:
         self.role = "Full Stack Devoloper"
         self.is_studing = True
         self.code = [Python, Javascript, HTML, CSS, MySQL, Java],
-        self.askMeAbout = [Data Science, Web, Software Development]
+        self.askMeAbout = [Data Science, IA, Web, Software Development]
 
     def say_hi(self):
         print(f'Hello there, my name is {self.name}')
