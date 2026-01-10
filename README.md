@@ -26,16 +26,9 @@ class Gituser:
 <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" height="40"> <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="40" height="40"> 
   </p>
 
-### 📌 Highlight Projects
-
-<a href="https://github.com/Di3go07/Dashbord_Formula1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Di3go07&repo=Dashbord_Formula1&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/Di3go07/Ze_Code_backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Di3go07&repo=Ze_Code_backend&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
 ### 📬 Contact me
 
 <a href = "mailto:diego.dpab@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/diego-barros-25589b353/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
