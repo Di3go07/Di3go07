@@ -20,7 +20,7 @@ class Gituser:
 
 ### 🛠️ Skills
 
-<p align="center">
+<p>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"/>
