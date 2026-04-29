@@ -20,7 +20,7 @@ class Gituser:
 
 ### 🛠️ Skills
 
-<div>
+<div style='display:flex'>
   <p>
   <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40" height="40"/> 
         <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40" height="40"/>  
@@ -28,6 +28,7 @@ class Gituser:
         <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
       <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40" height="40"> <img loading="lazy" src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="40" height="40"> 
   </p>
+</div>
 
 ### 📬 Contact me
 
